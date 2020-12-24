@@ -1,6 +1,6 @@
-# Webpack Starter
+# Gif Expert App
 
-este es el proyecto inicial para crear aplicaciones con webpack
+este proyecto es un aplicativo contruido con React y consume el api de GIPHY Developers que permite llamar gif de toda clase y presentarla en mi pagina principal. 
 
 ### notas:
 recuerden recontruir los modulos de node
